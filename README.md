@@ -31,7 +31,13 @@ A voice-first interview-practice prototype designed around a React/TypeScript in
 - Focuses on clear frontend/backend boundaries, API validation, request-state handling, and user-friendly error recovery.
 - Exploring AI-provider integration and concise-response controls to keep usage efficient.
 
-> The application is under active development; provider integration, account support, and user-managed API keys should be treated as works in progress until published and verified.
+> ### 🎙️ MetaVoice AI — Voice-Enabled Interview Coach
+
+A full-stack AI interview practice application built with React, TypeScript, FastAPI, and Google Gemini, featuring browser-based speech input and spoken AI feedback.
+
+**Tech:** React · TypeScript · Python · FastAPI · Gemini API
+
+🔗 [View Project on GitHub](https://github.com/anuragsharma23/metavoice-ai)
 
 ### 💳 Distributed Payment Notification Service
 
